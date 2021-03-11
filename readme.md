@@ -1,31 +1,34 @@
 # Typescript Starter 
 
-## Setup Typescript 
+## Setup
 
-* Windows Installation 
+To install the dependencies, run:
 
-    ```
-   npm install -g typescript 
-    ```
+```
+$ npm install
+```
 
-* Mac/Linux Installation 
+## Development
 
+To start a development server, run:
 
-    ```
-    sudo npm i -g typescript  
-    ```
+```
+$ npm run dev
+```
 
-## Dependencies
+## Production
 
-* Install Express and Nodemon
+To build the application, run:
 
-    ```
-    npm i -D typescript ts-node nodemon @types/node @types/express  
-    ```
+```
+$ npm run build
+```
 
+and to start the built application, run:
 
-## Run Typescript 
-    npm run dev   
+```
+$ npm start
+```
     
 
 
